@@ -1,6 +1,3 @@
-# About Me 
-# I am Hafsa Usmani
-
 A Computer Science student who loves building things with code.  
 Right now, I’m practicing JavaScript and moving into React, while also exploring how web development and AI can work together.  
 
