@@ -8,7 +8,7 @@ Some things I’ve made so far:
 
 ## 🌱 Currently
 - Brushing up on JavaScript and starting with React  
-- Practicing bug fixing (instead of running away from errors 😂)  
+- Practicing bug fixing (instead of running away from errors)  
 - Uploading my projects here on GitHub so I can track my growth  
 
 ## 🎯 Goals
