@@ -1,5 +1,5 @@
 A Computer Science student who loves building things with code.  
-Right now, I’m practicing JavaScript and moving into React, while also exploring how web development and AI can work together.  
+Right now, I am practicing React, while also exploring how web development and AI can work together.  
 
 Some things I’ve made so far:
 - 📝 A minimal To-Do app (with glassmorphism style ✨)  
