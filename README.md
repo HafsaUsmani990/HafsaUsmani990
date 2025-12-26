@@ -4,7 +4,7 @@ Right now, I’m practicing JavaScript and moving into React, while also explori
 Some things I’ve made so far:
 - 📝 A minimal To-Do app (with glassmorphism style ✨)  
 - 💼 A personal portfolio project  
-- 🌐 A few basic web projects while learning HTML/CSS  
+- 🌐 A few basic web projects while learning HTML/CSS/JS 
 
 ## 🌱 Currently
 - Brushing up on JavaScript and starting with React  
