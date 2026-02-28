@@ -1,13 +1,8 @@
 A Computer Science student who loves building things with code.  
 Right now, I am practicing React, while also exploring how web development and AI can work together.  
 
-Some things I’ve made so far:
-- 📝 A minimal To-Do app (with glassmorphism style ✨)  
-- 💼 A personal portfolio project  
-- 🌐 A few basic web projects while learning HTML/CSS/JS 
-
 ## 🌱 Currently
-- Brushing up on JavaScript and starting with React  
+- Working with React and Tailwind  
 - Practicing bug fixing (instead of running away from errors)  
 - Uploading my projects here on GitHub so I can track my growth  
 
